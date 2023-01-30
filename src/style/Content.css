@@ -1,0 +1,14 @@
+.Content{
+    width: auto;
+    margin: auto;
+}
+.card-text:hover{
+    color: rgb(34, 207, 106);
+    transition: 200ms;
+}
+.price{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    font-family:  Helvetica;
+}
